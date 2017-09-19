@@ -1,4 +1,7 @@
 # Spriter-Player-for-Phaser
+
+###  [demo online](http://nimohe.tk/Spriter-Player-for-Phaser/Test/)
+
 **2017-01-29**
 
 - adjustments to allow proper work with BOX and POINT Spriter objects
